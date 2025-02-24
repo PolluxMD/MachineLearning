@@ -1,0 +1,29 @@
+Aprendizado de máquina * 18/02
+
+61 9 82121002
+Pablo Coelho
+Aprendizado de máquina
+pablo.coelho@gmail.com
+
+
+Pablocoelho74 - user do git
+
+Resposta:
+
+Pablo
+26
+Janeiro
+
+(o prompt é mostrado am forma de listagem, não escrever respostas em forma de listagem)
+
+CSV valor separado por virgula
+
+Supervisionado e não supervisionado vai cair na prova
+
+
+
+Char vamos do zero somente com a parte do github, porque não está indo, já vigésima vez q eu tento e não consigo subir os arquivos pro repositório. O colab deu certo, mas na hora de subir pro github não sabe
+
+"C:\Users\erica\Downloads\Dever_01 (1).ipynb"
+
+Chat não deu certo, o arquivo foi movido pra pasta certa, agora pra onde vou? O endereço do repositorio é esse: https://github.com/PolluxMD/AprendizagemdeMaquina, ao inves de fazermos pelo link, acho mais facil fazermos pelo modo git clone. As pastas foram criadas, eu só preciso subir o arquivo pro repositório, só isso
